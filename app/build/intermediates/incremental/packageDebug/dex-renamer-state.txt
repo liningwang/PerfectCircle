@@ -1,0 +1,7 @@
+#Tue Jul 04 14:27:40 CST 2017
+base.0=D\:\\mywork\\codeForStudio\\third\\PerfectCircle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f19f761383803eb0a75b51fb630d48a97a222481
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\mywork\\codeForStudio\\third\\PerfectCircle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ff6cb718f157a9d44cecb408c24a5631273d99d7\\classes.dex
+base.1=D\:\\mywork\\codeForStudio\\third\\PerfectCircle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ff6cb718f157a9d44cecb408c24a5631273d99d7
+file.0=D\:\\mywork\\codeForStudio\\third\\PerfectCircle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f19f761383803eb0a75b51fb630d48a97a222481\\classes.dex

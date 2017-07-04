@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="perfectCircle">
+       <attr name="circleWidth" format="dimension" />
+       <attr name="circleColor" format="color" />
+       <attr name="textColor" format="color" />
+       <attr name="textSize" format="dimension" />
+       <attr name="circleColorE" format="color|reference" />
+       <attr name="circletext" format="string" />
+       <attr name="circleBm" format="reference"/>
+    </declare-styleable>
+</resources>

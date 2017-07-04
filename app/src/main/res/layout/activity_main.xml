@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:circle="http://schemas.android.com/apk/res/com.example.perfectCircle"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.perfectCircle.MainActivity" >
+
+ <com.example.perfectCircle.MyCircle
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     circle:circleColor="#00FF00"
+     circle:circletext="您好"
+     circle:textSize="5sp"
+     circle:circleBm="@drawable/nvhanzi"
+     android:id="@+id/mc"/>
+
+</RelativeLayout>
